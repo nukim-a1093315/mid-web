@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <div class="area1">
+        <div class="textside">
+            <p class="bbt">Enjoy your<br>Minimalist Lifestyle.</p>
+            <p class="mgt">The best crafts in Taiwan. Get your free<br>shipping on the first order.</p>
+        </div>
+        <div class="picside">
+            <img src="https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/index-1.jpg">
+        </div>
+    </div>
+    <div class="area2">
+        <div class="picside">
+            <img src="https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/index-2.jpg">
+        </div>
+        <div class="textside">
+            <p class="bbt">Special Clays</p>
+            <p class="mgt">A general body formulation for contemporary<br>earthenware is 25% kaolin, 25%ball clay, 35%<br>quartz and 15% feldspar.</p>
+            <p class="mgl">Learn More</p>
+        </div>
+    </div>
+    <div class="area3">
+        <div class="textside">
+            <p class="bbt">Less is more</p>
+            <p class="mgt">Trimming pottery transform a weighty Earth-<br>bound pot into one that is a pleasure to hold, look<br>at, and use.</p>
+            <p class="mgl">Learn More</p>
+        </div>
+        <div class="picside">
+            <img src="https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/index-3.jpg">
+        </div>
+    </div>
+    <div class="area4">
+        <div class="picside">
+            <img src="https://github.com/hexschool/webLayoutTraining1st/blob/master/week6/index-4.jpg">
+        </div>
+        <div class="textside">
+            <p class="bbt">Marvelous Detail</p>
+            <p class="mgt">In <i>Craftsman</i>, the art director, working with<br>marketers, develops or creates an idea of a new<br>creation.</p>
+            <p class="mgl">Learn More</p>
+        </div>
+    </div>
+    <div class="area5">
+    </div>
+    <div class="area6">
+    </div>
+    <div class="area7">
+    </div>
+</body>
+</html>
