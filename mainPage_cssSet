@@ -1,0 +1,24 @@
+.textside{
+    font-family: Verdana;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.picside{
+    width: 50%;
+}
+.bbt{
+    font-size: 40px;
+    color: black;
+    line-height: 1.2;
+}
+.mgt{
+    font-size: 18px;
+    color:gray;
+    line-height: 1.2;
+}
+.mgl{
+    font-size: 20px;
+    color:green;
+    line-height: 1.2;
+}
